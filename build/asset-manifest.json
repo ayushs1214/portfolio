@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ayushs1214/static/css/main.bf538fe7.css",
+    "main.js": "/ayushs1214/static/js/main.75fe0d27.js",
+    "static/media/HeroImage.jpg": "/ayushs1214/static/media/HeroImage.68ebc1a420caad0ecdef.jpg",
+    "index.html": "/ayushs1214/index.html",
+    "main.bf538fe7.css.map": "/ayushs1214/static/css/main.bf538fe7.css.map",
+    "main.75fe0d27.js.map": "/ayushs1214/static/js/main.75fe0d27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.75fe0d27.js"
+  ]
+}
